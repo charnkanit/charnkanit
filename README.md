@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Charnkanit Kaewwong
-- 👀 I’m interested in AI, Software engineer, and media design.
 - 🌱 I’m currently enrolled Robotics and AI Engineering @ KMITL, Thailand
-- 💞️ I’m looking for internship program for software engineer
+- 💞️ I’m DevOps intern, Data team @ Agoda, Thailand
 - 📫 Contact me via email: charnkanit.k@gmail.com
 
 <!---

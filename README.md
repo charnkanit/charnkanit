@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Charnkanit Kaewwong
-- 🌱 I’m Software Developer of OfficeMate (Thai) Ltd
+- 🌱 I’m AI/Software Developer of Stackwise
 - 📫 Contact me via email: charnkanit.k@gmail.com
